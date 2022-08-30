@@ -39,13 +39,18 @@
     <connection id="5c5fa04c-65a5-483b-88ba-34a657de05ea" />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="5c5fa04c-65a5-483b-88ba-34a657de05ea" dataset="app-db.cards" active-filter-id="" />
     <filter-actions connection-id="5c5fa04c-65a5-483b-88ba-34a657de05ea" dataset="app-db.auth_codes" active-filter-id="" />
+    <filter-actions connection-id="5c5fa04c-65a5-483b-88ba-34a657de05ea" dataset="app-db.card_transactions" active-filter-id="" />
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.ExecutionManager">
     <retain-sticky-names value="false" />
+  </component>
+  <component name="DBNavigator.Project.FileConnectionMappingManager">
+    <mapping file-url="file://$PROJECT_DIR$/src/test/resources/schema.sql" connection-id="5c5fa04c-65a5-483b-88ba-34a657de05ea" session-id="MAIN" current-schema="app-db" />
   </component>
   <component name="DBNavigator.Project.MethodExecutionManager">
     <method-browser />
